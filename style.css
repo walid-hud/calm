@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+:root{
+    --bg-dark: #00000066;
+    --bg-light: #f7f7f7;
+    --bg-dark-blue : #1b2250;
+
+    --text-white : #fff;
+    --text-black: #000000cc;
+    --text-light :#ffffffcc;
+    --text-blue: #1a3e6f;
+    --text-mute : #383838;
+
+    --color-primary : #2275d3;
+    --color-accent : #f8d22d;
+
+    --text-base : 16px;
+    --text-sm : 13.5px;
+    --text-md: 18px;
+    --text-lg: 22.5px;
+    --text-xl: 31.5px;
+    --text-xl-2: 36px;
+    --text-xl-3: 49.5px;
+
+    --font-sans: 'Figtree', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+    --font-serif: 'Times New Roman', Times, serif;
+    --font-base : 400;
+    --font-md: 500;
+    --font-bold: 700;
+
+    --break-sm:480px;
+    --break-xl:1024px;
+    --break-md:768;
+    --gradient-1:linear-gradient(180deg, #156494 0%, #2f2f7e 100%);
+    --gradient-2:linear-gradient(180deg, #3a8cbd 0%, #3b399c 100%);
+}
+
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+body {
+  font-family: var(--font-sans);
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+img, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button {
+  font: inherit;
+}
+
+/* to Avoid text overflows */
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+p {
+  text-wrap: pretty;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
