@@ -17,7 +17,6 @@
 
 - card 2 : 
     - Dormir plus.
-    - S'endormir (jusqu'au matin)naturellement et paisiblement.
     - En savoir plus
 
 - card 3 :
