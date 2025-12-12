@@ -48,7 +48,7 @@ John de Chicago
 -79.99 $US/an
 
 - legal notice
-Après votre essai gratuit, le coût de l'abonnement annuel est de 79.99 $US et se renouvelle automatiquement chaque année jusqu'à ce qu'il soit résilie Conditions Annulez à tout moment
+Après votre essai gratuit, le coût de l'abonnement annuel est de 79.99 $US et se renouvelle automatiquement chaque année jusqu'à ce qu'il soit résilie. Conditions Annulez à tout moment
 
 - cta 
 Continuer
